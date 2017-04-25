@@ -1,0 +1,28 @@
+body{
+    font:12px Arial;
+    color:#777;
+   	line-height:2em;
+   	}
+   a{ 
+    color:#727272;
+    text-decoration:none;
+   	}
+   	a:hover{
+			text-decoration:underline;
+     		}
+	.aa{
+		color:#b9f605;
+		font-size:14px;
+		font-weight:bold;
+		}
+	#a{
+		color:#fff;
+		}
+	#a:hover{
+			color:#b9f605;
+			text-decoration:none;
+	    	}
+	.special{
+			color:#fdb306;
+	     	}
+    	
