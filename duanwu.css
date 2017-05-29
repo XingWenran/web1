@@ -1,0 +1,18 @@
+*{padding-bottom:0px;margin:0;}
+body{font:12px/22px "宋体";color:#333;}
+ul{list-style:none;}
+a{text-decoration:none;color:#333;}
+.clear{clear:both;}
+.logo{width:1000px;margin:0px auto;}
+.main ol a:hover{line-decoration:underline;color:#249d34;}
+.main ol {font-size:23px; }
+.menu{width:100%;height:40px;background:#352;margin:0px auto;}
+.menu ul{width:1000px;margin:0px auto;}
+.menu ul li{float:left;width:160px;line-height:40px;}
+.menu a{font-size:16px;color:#fff;}
+.banner,.banner img{width:100%;height:auto;}
+.m_left{width:348px;height:298px;float:left;border:1px solid #ccc;background-image:url("images/duanwu1.jpg");}
+.m_right{width:848px;height:298px;float:right;border:1px solid #ccc;background-image:url("images/duanwu2.png");}
+.list{width:1000px;margin:0px auto;}
+.list_img{float:left;margin:10px;}
+.footer{height:40px;background:#666;color:#aaa;text-align:center;}
