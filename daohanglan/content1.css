@@ -1,0 +1,6 @@
+ul{list-style-type:none;}
+.menu{width:1000px;height:40px;background-image:url("images/menu_bg.png");padding:auto;}
+.menu ul li{float:left;width:130px;line-height:45px;text-align: center;}
+.menu img{float:left;width:30px;height:30px;overfloat:hidden;margin-top: 10px}
+.menu a{text-decoration: none;color:#333;}
+.menu li:hover{background-image: url("images/menu_bg1.png");}

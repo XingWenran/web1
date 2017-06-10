@@ -11,8 +11,8 @@ a{text-decoration:none;color:#333;}
 .menu ul li{float:left;width:160px;line-height:40px;}
 .menu a{font-size:16px;color:#fff;}
 .banner,.banner img{width:100%;height:auto;}
-.m_left{width:348px;height:298px;float:left;border:1px solid #ccc;background-image:url("images/duanwu1.jpg");}
-.m_right{width:848px;height:298px;float:right;border:1px solid #ccc;background-image:url("images/duanwu2.png");}
+.m_left{width:248px;height:298px;float:left;border:1px solid #ccc;background-image:url("images/duanwu1.jpg");}
+.m_right{width:748px;height:298px;float:right;border:1px solid #ccc;background-image:url("images/duanwu2.png");}
 .list{width:1000px;margin:0px auto;}
 .list_img{float:left;margin:10px;}
 .footer{height:40px;background:#666;color:#aaa;text-align:center;}
